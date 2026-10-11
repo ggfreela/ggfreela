@@ -1,9 +1,5 @@
 # 🚀 ggfreela — A Plataforma Definitiva para Freelancers e Clientes
 
-[![ggfreela Website](https://img.shields.io/badge/Acesse-ggfreela.com-blueviolet?style=for-the-badge&logo=googlechrome)](https://ggfreela.com)
-[![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)](https://ggfreela.com)
-[![Categoria](https://img.shields.io/badge/Categoria-Freelance%20%26%20Trabalho%20Remoto-informational?style=for-the-badge)](https://ggfreela.com)
-
 Conecte-se com os melhores talentos freelancers do Brasil ou encontre oportunidades de trabalho remoto com total segurança e praticidade. No **[ggfreela.com](https://ggfreela.com)**, aproximamos contratantes e profissionais independentes com intermediadores de pagamento de ponta, chat em tempo real e mediação transparente.
 
 ---
